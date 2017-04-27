@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\Work\\NotificationManagerExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\Work\\NotificationManagerExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Work\\NotificationManagerExample\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "G:\\Work\\NotificationManagerExample\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
